@@ -1,0 +1,16 @@
+.app{
+  display: grid;
+  place-items: center;
+  background-color: #dadbd3;
+  height: 100vh;
+  /* overflow: scroll; */
+}
+
+.app-body{
+ 
+  display: flex;
+  background-color: white;
+  width: 90vw;
+  height: 90vh;
+  box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.2);
+}
